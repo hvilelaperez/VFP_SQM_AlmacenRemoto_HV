@@ -1,6 +1,10 @@
 # Archivos generados por VB6
 SubeNuevoGithubPhp.bat
 ActualizaGithubPhp.bat
+SubeNuevoGithubVfp.bat
+ActualizaGithubVfp.bat
+SubeNuevoGithubNet.bat
+ActualizaGithubNet.bat
 *.bat
 *.rar
 *.7zp

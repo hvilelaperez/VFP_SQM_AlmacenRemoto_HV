@@ -1,7 +1,7 @@
-# Informe Técnico: Análisis de Sistema ALMACENREMOTOV3
+# Informe Técnico: 
 
 ## 1. Objetivo del Sistema
-El sistema **ALMACENREMOTOV3** es una solución integral de **gestión comercial, logística y control de inventarios** diseñada para empresas de distribución, comercialización o retail que operan en entornos de **almacenes remotos**.
+El sistema **ALMACENREMOTO** es una solución integral de **gestión comercial, logística y control de inventarios** diseñada para empresas de distribución, comercialización o retail que operan en entornos de **almacenes remotos**.
 
 ### Problemas que resuelve y procesos que automatiza:
 *   **Gestión Logística Completa:** Controla el ciclo de vida de la mercadería, desde el ingreso hasta el despacho.
